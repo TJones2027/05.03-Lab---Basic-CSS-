@@ -1,3 +1,4 @@
+
 h1{
   border-color: #d3e644;
   border-style: dashed;
@@ -35,9 +36,29 @@ tbody tr:hover {
   color:white;
 }
 
-.light{
-  opacity: 50;
-  color:grey;
+
+a {
+  font-size: 12px;
+  font-family: "Arial";
+  color:blue;
 }
 
+p,ol{
+  font-family: "Times New Roman";
+  font-size: 16px;
+  color:darkslategray;
+}
+
+h1{
+  padding: 5px;
+  font-size: 24px;
+  font-family: "Arial";
+  color:white;
+  background-color: red;
+}
+.author-name-and-date{
+  font-family: "Arial";
+  color:grey;
+  font-size: 12px;
+}
 
